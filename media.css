@@ -1,0 +1,36 @@
+@media only screen and (max-width:1440px){
+    #menu{
+        display: block;
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    #menu1{
+        display: block;
+        width: 70%;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width:1130px){
+    .combo{
+        width: 80%;
+        height: 80%;
+    }
+
+    img{
+        width: 80%;
+        height: 80%;
+    }
+}
+
+@media only screen and (max-width:900px){
+    img{
+        width: 80%;
+        height: 40%;
+    }
+
+    .combo{
+        height: 30%;
+    }
+}
